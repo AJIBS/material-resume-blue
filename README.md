@@ -14,5 +14,6 @@ You can view the live version of the phone recommender on: https://ajibs.github.
 ## Notes
 * The application was built with HTML, CSS, JavaScript, and Bootstrap
 * I was quite taken by the image responsive technique of: "srcset" and "sizes" attributes of <img> tags .
+* Ignore the node_modules folder (it is part of my work-flow for generating optimal images; grunt and node.js)
 
 
