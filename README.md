@@ -1,7 +1,7 @@
 # material-resume-blue
 
 ## Objective 
-Built a responsive website from scratch using Bootstrap and integrate responsive images
+Build a responsive website from scratch using Bootstrap and integrate responsive images
 
 ## Requirements
 * User Story: Build a responsive site
