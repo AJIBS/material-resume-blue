@@ -1,0 +1,168 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	font-family: 'Karla', sans-serif ;
+	font-size: 16px;
+	color: #333;
+}
+
+header {
+	position: relative;
+	width: 100%;
+	padding: 100px 15px;
+	min-height: auto;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	background-image: url('../img/header.jpg');
+	color: #fff;
+}
+
+section {
+	padding-top: 40px;
+}
+
+footer {
+	background-color: #0080ff;
+	color: #fff;
+	padding: 20px;
+}
+
+
+.navbar-bg {
+	background-color: #0080ff;
+	margin-bottom: 0;
+}
+
+.navbar-text {
+	color: #fff;
+}
+
+.navbar-text > li > a {
+	color: #fff;
+}
+
+.navbar-toggle .icon-bar {
+	background-color: #011b33;
+}
+
+.title-super {
+	font-size: 60px;
+	font-weight: 300;
+}
+
+.title-small {
+	font-size: 20px;
+	font-weight: 100;
+}
+
+.text-muted {
+	color: #bcbbbb;
+}
+
+.icon-background {
+	color: #011b33;
+}
+
+.icon-color{
+	color: #fff;
+}
+
+.section-title {
+	color: #0080ff;
+}
+
+.year {
+	float: right;
+}
+
+.work-info{
+	border-left: 1px solid #0080ff;
+}
+
+.work-experience {
+	margin-top: 20px;
+	border-bottom: 1px dashed #bcbbbb;
+	margin-left: 7%;
+}
+
+.main-description {
+	background-color: #666666;
+	color: #fff;
+	padding: 40px 20px;
+	margin: 0px;
+}
+
+.measure {
+	min-width: 200px;
+	background-color: #bcbbbb;
+}
+
+.social-media {
+	padding: 40px;
+	background-image: url('../img/header.jpg');
+	color: #fff;
+}
+
+.aside {
+	-webkit-box-shadow: 3px 0px 15px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 3px 0px 15px rgba(0, 0, 0, 0.4);
+	-ms-box-shadow: 3px 0px 15px rgba(0, 0, 0, 0.4);
+	-o-box-shadow: 3px 0px 15px rgba(0, 0, 0, 0.4);
+	box-shadow: 3px 0px 15px rgba(0, 0, 0, 0.4);
+}
+
+.main-box {
+	padding-left: 6%;
+}
+
+.hello-info {
+	background-color: #f7f7f7;
+}
+
+.hello-border {
+	border-bottom: 1px dashed #bcbbbb;
+	padding-top: 20px;
+	padding-bottom: 30px; 
+}
+
+.date {
+	border-bottom: none;
+}
+
+div .main-box .letter p {
+	margin-bottom: 25px;
+}
+
+.project-box {
+	margin: 0;
+}
+
+.project-text {
+	padding: 30px 20px 0px 10%;
+}
+
+.project-image {
+	padding: 0;
+    -webkit-box-shadow: -5px 0px 10px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: -5px 0px 10px rgba(0, 0, 0, 0.4);
+    -o-box-shadow: -5px 0px 10px rgba(0, 0, 0, 0.4);
+    -ms-box-shadow: -5px 0px 10px rgba(0, 0, 0, 0.4);
+	box-shadow: -5px 0px 10px rgba(0, 0, 0, 0.4);
+}
+
+#hobbies {
+	padding-bottom: 40px;
+}
+
+@media (max-width: 768px) {
+	#timer {
+		margin-top: 70px;
+	}
+}
